@@ -1,3 +1,3 @@
-module github.com/hello
+module github.com/sirclicksalot/gopractice/hello
 
 go 1.20
